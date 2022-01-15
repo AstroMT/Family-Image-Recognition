@@ -1,0 +1,23 @@
+body {
+    background-image: linear-gradient(135deg, #ffede1, #FCF4EA, #f9fbf2, #E8FAF9, #d7f9ff, #C3E2FF, #afcbff);
+}
+
+.header {
+    font-size: 65px;
+    color: #0039AB;
+    font-family: 'Dongle', sans-serif;
+}
+
+.open_sans {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.desc {
+    font-family: 'Karla', sans-serif;
+    font-size: 25px;
+}
+
+.display {
+    font-family: 'Questrial', sans-serif;
+}
